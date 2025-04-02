@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alexei Verevkin</h1>
-- 🌱 I’m currently learning **IT courses**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
